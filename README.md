@@ -94,3 +94,10 @@
     <img src="https://user-images.githubusercontent.com/91141709/189877372-23055051-4432-46b6-89ae-bff972af0a57.png" width="300">&emsp;
 </p>
 <br>
+
+## The model is trained on 58500+ images which are divided into the 43 categories 
+<p>
+    <img src="https://user-images.githubusercontent.com/91141709/189878738-73a00d1b-86e1-462a-8734-8304f047254d.png" width="1000">&emsp;
+</p>
+<br>
+
