@@ -1,7 +1,7 @@
 # Traffic-Sign-Classifier
 
 ## Traffic sign classifier helps common people by identifying the traffic signs shown through the webcam and annotates the name and the prediction accuracy of the predicted sign in the video stream itself.
-## Following are the different traffic signs on which the model is trained on :
+## Following are the different traffic signs on which the model is trained on:
 0	Speed limit (20km/h)
 
 1	Speed limit (30km/h)
